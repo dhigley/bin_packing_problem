@@ -1,0 +1,8 @@
+Bin 1 (0.04): Small_dog (0.63), Moose_skull (0.25), Goldfish (0.06), Eagle_feather (0.02)
+Bin 2 (0.03): Squirrel (0.41), Mouse (0.15), Chicken_wing (0.12), Shark_teeth (0.11), Human_finger (0.09), Octopus eye (0.05), Horse_manure (0.04)
+Bin 3 (0.09): Snake (0.52), Pig_head (0.39)
+Bin 4 (0.13): Elephant_tusk (0.63), Camel_hump (0.24)
+Bin 5 (0.06): Crocodile (0.94)
+Bin 6 (0.18): Sheep_coat (0.33), Cat (0.28), Monkey_hand (0.21)
+Bin 7 (0.58): Bat (0.42)
+There were 7 bins used for sorting this list.

@@ -1,0 +1,11 @@
+Bin 1 (0.05): Operating_system (0.75), American_History_2000- (0.20)
+Bin 2 (0.11): Computer_graphics (0.62), The_History_of_the_Universe (0.27)
+Bin 3 (0.01): Discrete_Mathematics (0.78), C_Programming (0.21)
+Bin 4 (0.04): English_for_Dummies (0.55), Statistics (0.41)
+Bin 5 (0.10): Computer_Architecture (0.90)
+Bin 6 (0.02): English-Minbari_Dictionary (0.42), Zen_and_the_Art_of_Programming (0.33), Hitchhicker's_Guide (0.23)
+Bin 7 (0.12): The_Joy_of_Cooking (0.56), Artificial_Intelligence (0.32)
+Bin 8 (0.02): Cincinnati_Yellow_Pages (0.98)
+Bin 9 (0.67): Heart_of_Darkness (0.21), Business_Programming:_Why? (0.12)
+Bin 10 (0.18): The_History_of_the_Ohio_State_Buckeyes (0.82)
+There were 10 bins used for sorting this list.
